@@ -2,9 +2,6 @@
 
 “A monopolist platform uses data to match heterogeneous consumers with multiproduct sellers. The consumers can purchase the products on the platform or search off the platform. The platform sells targeted ads to sellers that recommend their products to consumers and reveals information to consumers about their match values. The revenue-optimal mechanism is a managed advertising campaign that matches products and preferences efficiently. In equilibrium, sellers offer higher qualities at lower unit prices on than off platform. The platform exploits its information advantage to increase its bargaining power vis-à-vis the sellers. Finally, privacy-respecting data-governance rules can lead to welfare gains for consumers.” ([Bergemann 和 Bonatti, 2024, p. 2553](zotero://select/library/items/VJDW8GYZ)) ([pdf](zotero://open-pdf/library/items/UM2VU4CW?page=1))
 
-# 基本信息
-
-<table><tbody><tr><td style="background-color: rgb(239, 239, 239);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgb(239, 239, 239);">学习模块</span></span></strong></p></td><td style="background-color: rgb(239, 239, 239);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgb(239, 239, 239);">基本信息与核心内容 (Storyline)</span></span></strong></p></td><td style="background-color: rgb(239, 239, 239);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgb(239, 239, 239);">后续提问抓手与锚点 (建议提问方式)</span></span></strong></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">1. 论文基本信息</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p></p><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">标题</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：Data, Competition, and Digital Platforms</span></span></p><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">作者</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：Dirk Bergemann &amp; Alessandro Bonatti</span></span></p><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">出处</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：American Economic Review 2024, 114(8)</span></span></p><p></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“这篇论文主要填补了该领域内哪块文献的空白？”</span></span></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">2. 研究动机 (Motivation)</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">数字平台（如亚马逊、谷歌等）不仅是信息看门人，还充当着“竞争管理者”的角色 。平台利用精准的数据匹配消费者与卖家，并通过售卖定向广告来变现 。监管机构担忧这会赋予卖家更多市场力量，因此需要探究</span></span><strong><span style="color: rgb(255, 32, 32);"><span style="background-color: rgba(0, 0, 0, 0);">平台数据精度如何影响市场剩余的创造与分配 。</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“作者在引言中提到的‘竞争管理者’（competition managers）具体体现在哪些商业实践中？”</span></span></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">3. 核心模型设定 (Model Setup)</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">包含一个垄断平台和多个提供差异化产品线的卖家 ；消费者可以在平台上购买，也可以花费搜索成本在平台外（off the platform）寻找产品 。平台通过“托管广告活动”（managed campaigns）机制，向卖家收取固定预算，并向消费者展示精准匹配的赞助产品 。</span></span></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“模型中的‘托管广告活动’（managed campaign）是如何设定的？它与传统的每次点击付费有什么区别？”</span></span></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">4. 核心机制：展厅效应 (Showrooming)</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">平台外的销售渠道限制了卖家在平台上榨取消费者剩余的能力，因为消费者可以在平台上看到推荐后，去平台外寻找同品牌的其他替代品 。为了防止这种“展厅效应”，卖家被迫扭曲（降低）平台外的产品质量，并降低平台上的单位质量价格 。</span></span></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“你能详细解释一下模型中的‘展厅约束’（showrooming constraint）是如何运作的吗？它为什么会导致平台外产品质量的下降？”</span></span></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">5. 平台的最优策略与收入</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">平台利用其信息优势和搜索摩擦获得了巨大的议价能力 。平台通过引导消费者只看赞助品牌的商品，实际上限制了卖家间的竞争 。使得平台收入最大化的机制是实现产品与偏好高效匹配的定向广告 。</span></span></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“为什么说平台通过托管广告活动能够剥夺卖家大部分的剩余利润？”</span></span></p></td></tr><tr><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">6. 扩展探讨：信息与隐私 (Privacy)</span></span></strong></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">对称信息</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：如果消费者在平台上知道所有产品的真实价值，平台的广告费收入会降低 ；</span></span></p><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">自然搜索链接 (Organic Links)</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：提供全网价格信息会加剧卖家竞争，降低价格和平台费用 ；</span></span></p><p><strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">隐私保护 (群组广告/Cohort)</span></span></strong><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">：限制追踪个人数据，改用基于相同偏好排名的“群组”（cohorts）进行广告投放，能让消费者获得信息优势，从而提高消费者福利 。</span></span></p><p></p></td><td style="background-color: rgba(0, 0, 0, 0);"><p><span style="color: rgb(31, 31, 31);"><span style="background-color: rgba(0, 0, 0, 0);">“在隐私保护（如群组广告 Cohort-based advertising）的设定下，各方的福利（消费者、卖家、平台）发生了怎样具体的改变？”</span></span></p></td></tr></tbody></table>
 
 # 核心问题
 
@@ -14,56 +11,17 @@
 
 (iii) How do they depend on the mechanisms for collecting and sharing consumer data?” ([Bergemann 和 Bonatti, 2024, p. 2554](zotero://select/library/items/VJDW8GYZ))
 
-# 解读
 
-想象一下，你打算买一双跑鞋。你隐约知道自己比较喜欢 Nike 或 Adidas，但并不清楚哪款鞋最适合你的脚型和预算。这时候，你打开了一个超级聪明的大型电商平台（比如亚马逊或淘宝）。
+# 模型建立
 
-这个平台拥有海量数据，它不仅知道你的偏好，还比你更懂你真正需要什么。你在首页搜索“跑鞋”，平台瞬间匹配到了最适合你的那一双高级 Nike 跑鞋，并把它作为“赞助广告”推到了你眼前。在这个过程中，发生了三件非常关键的现实操作：
-
-1. **数据与个性化广告**：平台利用信息优势，通过“托管广告活动”直接在个体消费者层面进行了精准匹配 。
-    
-2. **产品导流（Product Steering）**：平台并没有对同一双鞋杀熟（价格歧视），而是发现你具有较高的支付意愿，于是直接向你推荐了质量更高、价格也更贵的高端款，这就叫“产品导流” 。
-    
-3. **平行销售渠道**：当然，你不是被关在笼子里的消费者。如果你觉得平台推荐的鞋太贵，你完全可以切出App，自己花点时间去 Nike 的官网（平台外的渠道）看一圈 。
-    
-
-**这篇文章的现实关怀就在于：** 在数字经济时代，拥有巨大数据优势的平台究竟是如何在消费者和卖家之间分配利益这块“大蛋糕”的 ？由于平台具备“双重看门人”的角色，我们可以借此框架来探讨不同的隐私保护政策（比如禁止个人追踪）对消费者到底是好是坏 。
-
-* * *
-
-### 二、 模型建立：卖家、平台与消费者的博弈
-
-为了抓住上述痛点，作者构建了这样一个模型：
-
-- **卖家与消费者**：市场上存在提供差异化“质量-价格”组合的卖家，而消费者对这些卖家的产品线有着不同的偏好，且消费者一开始对自己的真实估值是不完全了解的 。
+- **卖家与消费者**：市场上存在提供差异化“质量-价格”组合的卖家，而消费者对这些卖家的产品线有着异质偏好，且消费者一开始对自己的真实估值是不完全了解的 。
     
 - **平台的作用与变现**：平台的数据可以弥补消费者的信息劣势，精准找出消费者觉得最有价值的卖家和产品，并通过“赞助搜索结果”展示出来 。那么平台怎么靠这个赚钱呢？现实中（比如谷歌的 Performance Max 或 Meta 的 Advantage+），平台采用的是\*\*“托管广告活动”（Managed Campaigns）\*\* 。卖家只需设定一个固定的广告总预算，由平台的算法自动去完成对消费者的精准定向 。
     
 - **平台外市场（Off-platform）**：有一部分消费者不在平台上购物，他们面临着搜索成本（搜第一家免费，接着搜就要花时间和精力） 。
     
 - **核心博弈机制（展厅效应）**：因为平台上的消费者可以随时“跳出”平台，去卖家的独立网站上买东西，这就限制了卖家在平台上随意榨取消费者剩余的能力 。这就好比，如果卖家想在自己官网上留住忠实客户，他在平台上能玩的花样（定向高价）就会受到限制 。
-    
-
-* * *
-
-### 三、 核心结果：谁才是最后的赢家？
-
-这篇论文的推导得出了几个非常敏锐且深刻的结论：
-
-- **平台掌控一切（Proposition 2 & 3）**：因为平台拥有信息优势，外加存在搜索摩擦，消费者会认为平台推荐的就是最好的。结果就是，平台完全控制了消费者的购物行为，引导他们远离那些不交广告费的卖家 。这样一来，卖家在平台上其实并没有和同行竞争，而是在和**自己的线下/官网报价（off-platform offers）竞争** 。
-    
-- **卖家被迫“摆烂”**：为了防止平台上的消费者跑去官网买便宜货，卖家面临着巨大的机会成本。他们的应对策略是：不仅要降低平台上的价格，还要**故意扭曲（降低）平台外产品的质量**（甚至比经典的 Mussa-Rosen 垄断模型降得还要低） 。
-    
-- **平台拿走大部分剩余（Proposition 4）**：平台巧妙地利用这种机制，只留给卖家极其微薄的补偿，然后把精准匹配创造的绝大部分福利收入了自己的口袋 。
-    
-- **透明度反而有害平台（Proposition 5 & 6）**：如果平台把非赞助商品的信息也全盘托出，或者提供“自然搜索链接”（让消费者看到所有的平台外价格），反而会引发卖家之间的菜单竞争。这不仅会拉低整体价格，还会让平台的广告费大幅缩水 。
-    
-- **隐私保护确实能救消费者（Proposition 7）**：如果实施类似现实中无 Cookie 的“群组广告”（Cohort-based advertising）——即平台只知道你属于哪类人群（同一种偏好排名），但不透露你愿意花多少钱（基数信息），消费者就能在平台上保有信息优势，从而提高消费者福利 。
-    
-- **信息披露的“心机”（Proposition 8 & 9）**：如果平台足够大，完全披露信息能让平台赚最多钱 。但如果平台外市场足够庞大，平台最聪明的做法是“只透露一部分信息”（有限且随机的披露），这样反而能增加它的广告收入 。
-    
-
-——————
+   
 
 [image]
 
